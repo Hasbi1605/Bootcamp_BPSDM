@@ -27,4 +27,4 @@ Menghubungkan dengan repository kemudian push
 
 ![SS3 - Screenshot VSCode terminal](img/ss3.png)
 
-##
+## Mencoba Checkout Main dan fix screenshot 3 di branch main
