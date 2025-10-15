@@ -1,6 +1,6 @@
 ### First Learning Git With BPSDM KOMDIGI
 
-Selamat datang di repositori pembelajaran Git pertama Saya bersama BPSDM KOMDIGI! 🎉  
+Selamat datang di repositori pembelajaran Git pertama Saya **Muhammad Hasbi Ash Shiddiqi** bersama BPSDM KOMDIGI! 🎉  
 Repositori ini dirancang khusus untuk pembelajaran saya dalam mempelajari dasar-dasar Git dan GitHub melalui latihan praktis dan panduan dari kak Fuad langkah demi langkah. 💻
 
 ## Tujuan
@@ -27,6 +27,11 @@ Menghubungkan dengan repository kemudian push
 
 ![SS3 - Screenshot VSCode terminal](img/ss3.png)
 
+## Mencoba Checkout Main dan fix screenshot 3 di branch main
+
+Checkout dari main ke develop
+
+![SS4 - Screenshot VSCode terminal](img/ss4.png)
 ## Coba Fix Conflict in develop
 
 ![SS5 - Screenshot VSCode terminal](img/ss5.png)
