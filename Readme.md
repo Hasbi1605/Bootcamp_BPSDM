@@ -32,3 +32,6 @@ Menghubungkan dengan repository kemudian push
 Checkout dari main ke develop
 
 ![SS4 - Screenshot VSCode terminal](img/ss4.png)
+## Coba Fix Conflict in develop
+
+![SS5 - Screenshot VSCode terminal](img/ss5.png)
