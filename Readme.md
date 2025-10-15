@@ -27,4 +27,6 @@ Menghubungkan dengan repository kemudian push
 
 ![SS3 - Screenshot VSCode terminal](img/ss3.png)
 
-##
+## Coba Fix Conflict in develop
+
+![SS5 - Screenshot VSCode terminal](img/ss5.png)
