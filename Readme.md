@@ -14,3 +14,15 @@ Repositori ini untuk:
 ![SS1 - Screenshot VSCode terminal](img/ss1.png)
 
 ## Coba Branch Develop
+
+Mencoba branch dan commit develop
+
+![SS1 - Screenshot VSCode terminal](img/ss2.png)
+
+## Coba Remote dan Push
+
+Menghubungkan dengan repository kemudian push
+
+--gacp = alias git add commit push
+
+![SS1 - Screenshot VSCode terminal](img/ss3.png)
